@@ -1,0 +1,17 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (keep structure, ignore generated content)
+data/cache/*.json
+data/output/*.md
+data/output/*.json
+data/published.json
+
+# IDE
+.vscode/
+.idea/
+*.swp

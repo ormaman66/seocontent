@@ -1,0 +1,287 @@
+{
+  "laptop": [
+    {
+      "asin": "B0DR3JT8DT",
+      "name": "Dell XPS 14 (2026)",
+      "price": "$1,599",
+      "rating": "4.7",
+      "reviews": "2,103",
+      "best_for": "Best Overall",
+      "specs": "Intel Core Ultra Series 3 \u00b7 2.8K OLED \u00b7 14.6mm thin",
+      "pros": ["Best Windows build quality", "12hr battery", "Compact design"],
+      "cons": ["Premium price", "No discrete GPU", "Limited ports"]
+    },
+    {
+      "asin": "B0C7SH3CBM",
+      "name": "Apple MacBook Air M3",
+      "price": "$1,099",
+      "rating": "4.8",
+      "reviews": "14,230",
+      "best_for": "Best for Mac Users",
+      "specs": "M3 chip \u00b7 18hr battery \u00b7 Fanless",
+      "pros": ["18hr battery", "Silent", "Excellent performance/watt"],
+      "cons": ["60Hz display", "No OLED", "Max 24GB RAM"]
+    },
+    {
+      "asin": "B0EXAMPLE1",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+      "price": "$1,449",
+      "rating": "4.6",
+      "reviews": "3,450",
+      "best_for": "Best for Business",
+      "specs": "Intel Core Ultra 7 \u00b7 14\" 2.8K OLED \u00b7 MIL-STD-810H",
+      "pros": ["Legendary keyboard", "Enterprise security", "Ultra-light 2.48 lbs"],
+      "cons": ["Expensive", "Integrated graphics only", "No touchscreen on base model"]
+    },
+    {
+      "asin": "B0EXAMPLE2",
+      "name": "ASUS ROG Zephyrus G14 (2026)",
+      "price": "$1,799",
+      "rating": "4.5",
+      "reviews": "1,890",
+      "best_for": "Best for Gaming",
+      "specs": "AMD Ryzen 9 8945HS \u00b7 RTX 4070 \u00b7 14\" QHD+ 165Hz",
+      "pros": ["Powerful GPU", "Portable for gaming", "Great display"],
+      "cons": ["Fan noise under load", "Battery life 5-6hrs gaming", "Runs warm"]
+    },
+    {
+      "asin": "B0EXAMPLE3",
+      "name": "Acer Swift Go 14 (2026)",
+      "price": "$699",
+      "rating": "4.4",
+      "reviews": "5,670",
+      "best_for": "Best Budget Pick",
+      "specs": "Intel Core Ultra 5 \u00b7 14\" 1920x1200 IPS \u00b7 1.3kg",
+      "pros": ["Excellent value", "All-day battery", "Lightweight"],
+      "cons": ["Plastic build", "No OLED option", "Average speakers"]
+    }
+  ],
+  "monitor": [
+    {
+      "asin": "B0MONIT01",
+      "name": "LG 27GR95QE-B UltraGear",
+      "price": "$799",
+      "rating": "4.7",
+      "reviews": "3,200",
+      "best_for": "Best Overall Gaming Monitor",
+      "specs": "27\" 4K OLED \u00b7 240Hz \u00b7 0.03ms GtG",
+      "pros": ["True OLED blacks", "240Hz at 4K", "Near-zero response time"],
+      "cons": ["Burn-in risk", "26.5\" actual size", "No USB-C hub"]
+    },
+    {
+      "asin": "B0MONIT02",
+      "name": "Dell U2723QE UltraSharp",
+      "price": "$449",
+      "rating": "4.6",
+      "reviews": "8,100",
+      "best_for": "Best for Productivity",
+      "specs": "27\" 4K IPS Black \u00b7 USB-C 90W \u00b7 sRGB 100%",
+      "pros": ["USB-C hub built-in", "Excellent color accuracy", "Daisy-chain support"],
+      "cons": ["60Hz only", "Not for gaming", "IPS glow in corners"]
+    },
+    {
+      "asin": "B0MONIT03",
+      "name": "Samsung Odyssey G7 (2026)",
+      "price": "$549",
+      "rating": "4.5",
+      "reviews": "6,300",
+      "best_for": "Best Value Gaming",
+      "specs": "32\" QHD VA \u00b7 240Hz \u00b7 1ms \u00b7 1000R curve",
+      "pros": ["Deep curve immersion", "High refresh rate", "Good contrast"],
+      "cons": ["VA smearing", "Aggressive curve", "Text clarity on curve"]
+    },
+    {
+      "asin": "B0MONIT04",
+      "name": "ASUS ProArt PA279CRV",
+      "price": "$599",
+      "rating": "4.7",
+      "reviews": "2,100",
+      "best_for": "Best for Content Creators",
+      "specs": "27\" 4K IPS \u00b7 USB-C 96W \u00b7 Delta E<2 \u00b7 Calman Ready",
+      "pros": ["Factory calibrated", "Wide color gamut", "USB-C PD 96W"],
+      "cons": ["60Hz", "Bulky stand", "Premium price for IPS"]
+    },
+    {
+      "asin": "B0MONIT05",
+      "name": "AOC 24G2SP",
+      "price": "$129",
+      "rating": "4.4",
+      "reviews": "12,400",
+      "best_for": "Best Budget",
+      "specs": "24\" 1080p IPS \u00b7 165Hz \u00b7 1ms \u00b7 FreeSync",
+      "pros": ["Incredible value", "IPS panel", "Adjustable stand"],
+      "cons": ["1080p only", "No USB-C", "Basic HDR"]
+    }
+  ],
+  "keyboard": [
+    {
+      "asin": "B0KEYBD01",
+      "name": "Keychron Q1 Max",
+      "price": "$219",
+      "rating": "4.8",
+      "reviews": "4,500",
+      "best_for": "Best Overall",
+      "specs": "75% layout \u00b7 Gasket mount \u00b7 Wireless \u00b7 Hot-swap",
+      "pros": ["Premium build", "Wireless + wired", "Hot-swappable switches"],
+      "cons": ["Heavy", "Learning curve for QMK", "Premium price"]
+    },
+    {
+      "asin": "B0KEYBD02",
+      "name": "Logitech MX Mechanical",
+      "price": "$149",
+      "rating": "4.5",
+      "reviews": "7,800",
+      "best_for": "Best for Productivity",
+      "specs": "Full-size \u00b7 Low-profile \u00b7 Bluetooth + USB \u00b7 Backlit",
+      "pros": ["Multi-device switching", "Low-profile comfort", "Smart backlighting"],
+      "cons": ["Non-standard switches", "No hot-swap", "Wobbly keycaps"]
+    },
+    {
+      "asin": "B0KEYBD03",
+      "name": "Razer Huntsman V3 Pro",
+      "price": "$249",
+      "rating": "4.6",
+      "reviews": "3,200",
+      "best_for": "Best for Gaming",
+      "specs": "Full-size \u00b7 Analog optical switches \u00b7 Adjustable actuation",
+      "pros": ["Analog actuation control", "Rapid trigger", "Premium build"],
+      "cons": ["Expensive", "Wired only", "Overkill for casual use"]
+    },
+    {
+      "asin": "B0KEYBD04",
+      "name": "Royal Kludge RK84 Pro",
+      "price": "$69",
+      "rating": "4.4",
+      "reviews": "9,600",
+      "best_for": "Best Budget",
+      "specs": "75% layout \u00b7 Tri-mode wireless \u00b7 Hot-swap \u00b7 RGB",
+      "pros": ["Incredible value", "Hot-swappable", "Tri-mode connectivity"],
+      "cons": ["Software needs work", "Stabilizers rattle", "Build flex"]
+    },
+    {
+      "asin": "B0KEYBD05",
+      "name": "Apple Magic Keyboard with Touch ID",
+      "price": "$199",
+      "rating": "4.6",
+      "reviews": "11,200",
+      "best_for": "Best for Mac",
+      "specs": "Full-size \u00b7 Touch ID \u00b7 USB-C \u00b7 Scissor switches",
+      "pros": ["Touch ID integration", "Seamless macOS integration", "Premium build"],
+      "cons": ["Low-profile only", "No backlighting on base", "Mac-only features"]
+    }
+  ],
+  "headphone": [
+    {
+      "asin": "B0HEADP01",
+      "name": "Sony WH-1000XM6",
+      "price": "$349",
+      "rating": "4.8",
+      "reviews": "8,900",
+      "best_for": "Best Overall",
+      "specs": "Over-ear \u00b7 40hr battery \u00b7 Multipoint \u00b7 LDAC",
+      "pros": ["Industry-leading ANC", "40hr battery", "Excellent sound"],
+      "cons": ["Premium price", "Touch controls finicky", "Call quality average"]
+    },
+    {
+      "asin": "B0HEADP02",
+      "name": "Apple AirPods Max (USB-C)",
+      "price": "$549",
+      "rating": "4.7",
+      "reviews": "15,300",
+      "best_for": "Best for Apple Users",
+      "specs": "Over-ear \u00b7 20hr battery \u00b7 Spatial Audio \u00b7 USB-C",
+      "pros": ["Premium build", "Spatial Audio", "Seamless Apple integration"],
+      "cons": ["Very expensive", "Heavy", "No aptX"]
+    },
+    {
+      "asin": "B0HEADP03",
+      "name": "Sennheiser Momentum 4",
+      "price": "$299",
+      "rating": "4.6",
+      "reviews": "5,200",
+      "best_for": "Best Sound Quality",
+      "specs": "Over-ear \u00b7 60hr battery \u00b7 aptX Adaptive \u00b7 EQ",
+      "pros": ["Audiophile-grade sound", "60hr battery life", "Comfortable"],
+      "cons": ["ANC not class-leading", "Plastic build", "Touch controls"]
+    },
+    {
+      "asin": "B0HEADP04",
+      "name": "Sony WF-1000XM5",
+      "price": "$279",
+      "rating": "4.6",
+      "reviews": "10,100",
+      "best_for": "Best Earbuds",
+      "specs": "In-ear \u00b7 24hr total battery \u00b7 LDAC \u00b7 IPX4",
+      "pros": ["Tiny form factor", "Excellent ANC for earbuds", "Hi-Res Audio"],
+      "cons": ["Ear tip fit varies", "No multipoint on LDAC", "Premium price"]
+    },
+    {
+      "asin": "B0HEADP05",
+      "name": "JBL Tune 770NC",
+      "price": "$79",
+      "rating": "4.4",
+      "reviews": "18,500",
+      "best_for": "Best Budget",
+      "specs": "Over-ear \u00b7 44hr battery \u00b7 ANC \u00b7 Bluetooth 5.3",
+      "pros": ["Amazing value", "Long battery life", "Decent ANC"],
+      "cons": ["Build quality average", "Bass-heavy tuning", "Creaky hinges"]
+    }
+  ],
+  "computer": [
+    {
+      "asin": "B0COMPU01",
+      "name": "Apple Mac Mini M4 Pro",
+      "price": "$1,399",
+      "rating": "4.8",
+      "reviews": "6,700",
+      "best_for": "Best Overall Desktop",
+      "specs": "M4 Pro \u00b7 24GB RAM \u00b7 512GB SSD \u00b7 Thunderbolt 5",
+      "pros": ["Incredible performance/watt", "Tiny footprint", "Silent operation"],
+      "cons": ["No upgradeable RAM", "Need external display", "Apple ecosystem lock-in"]
+    },
+    {
+      "asin": "B0COMPU02",
+      "name": "Dell XPS Desktop (2026)",
+      "price": "$1,299",
+      "rating": "4.5",
+      "reviews": "3,400",
+      "best_for": "Best Windows Desktop",
+      "specs": "Intel Core Ultra 9 \u00b7 32GB DDR5 \u00b7 1TB NVMe \u00b7 RTX 4060",
+      "pros": ["Upgradeable", "Strong GPU included", "Clean design"],
+      "cons": ["Proprietary PSU", "Fan noise under load", "Bloatware"]
+    },
+    {
+      "asin": "B0COMPU03",
+      "name": "Apple iMac M4",
+      "price": "$1,499",
+      "rating": "4.7",
+      "reviews": "5,200",
+      "best_for": "Best All-in-One",
+      "specs": "M4 chip \u00b7 24\" 4.5K Retina \u00b7 16GB RAM \u00b7 Center Stage camera",
+      "pros": ["Gorgeous display", "Ultra-thin design", "Great webcam"],
+      "cons": ["Not upgradeable", "Base model 16GB RAM", "Expensive for specs"]
+    },
+    {
+      "asin": "B0COMPU04",
+      "name": "NZXT Player: One",
+      "price": "$1,499",
+      "rating": "4.5",
+      "reviews": "2,800",
+      "best_for": "Best Pre-built Gaming PC",
+      "specs": "Ryzen 7 7800X3D \u00b7 RTX 4070 Ti \u00b7 32GB DDR5 \u00b7 1TB NVMe",
+      "pros": ["Gaming-optimized CPU", "Clean cable management", "Easy to upgrade"],
+      "cons": ["No Wi-Fi 7", "Stock cooler adequate", "Limited color options"]
+    },
+    {
+      "asin": "B0COMPU05",
+      "name": "Beelink SER8 Mini PC",
+      "price": "$389",
+      "rating": "4.4",
+      "reviews": "7,900",
+      "best_for": "Best Budget Desktop",
+      "specs": "AMD Ryzen 7 8845HS \u00b7 32GB RAM \u00b7 500GB SSD \u00b7 USB4",
+      "pros": ["Incredible value", "Tiny form factor", "Low power consumption"],
+      "cons": ["No discrete GPU", "Limited storage", "Plastic build"]
+    }
+  ]
+}
